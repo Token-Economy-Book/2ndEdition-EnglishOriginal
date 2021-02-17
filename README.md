@@ -10,7 +10,7 @@ Copy edit: Paisley Prophet<br>
 Cover design: Carmen Fuchs<br>
 
 # Versions
-Github: https://github.com/sherminvo/TokenEconomyBuch/wiki (work in progress)<br>
+Github: https://github.com/sherminvo/TokenEconomyBook/wiki (work in progress)<br>
 Print book (paperback & hardcopy) and eBook editions are also available on Amazon (https://amzn.to/2W7lQ8h) & other online bookstores.
 A ebook edition is available under ISBN: 978-3-9821038-3-9 <br>
 A paperback edition is available under ISBN: 978-3-9821038-1-5 <br>
