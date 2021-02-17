@@ -9,13 +9,15 @@ Production: Caroline Helbing<br>
 Copy edit: Paisley Prophet<br>
 Cover design: Carmen Fuchs<br>
 
-# Versions
-Github: https://github.com/sherminvo/TokenEconomyBook/wiki (work in progress)<br>
+# English editions
+Github: https://github.com/sherminvo/TokenEconomyBook/wiki<br>
 Print book (paperback & hardcopy) and eBook editions are also available on Amazon (https://amzn.to/2W7lQ8h) & other online bookstores.
 A ebook edition is available under ISBN: 978-3-9821038-3-9 <br>
 A paperback edition is available under ISBN: 978-3-9821038-1-5 <br>
 A hardcover edition is available as ISBN: 978-3-9821038-4-6<br>
-Other languages: https://github.com/Token-Economy-Book/
+
+# Other languages
+https://github.com/Token-Economy-Book/
 
 # Licence
 Copyleft 2020, Shermin Voshmgir: Creative Commons – CC BY-NC-SA<br>
