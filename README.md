@@ -2,7 +2,6 @@
 Second edition, first amended printing, Nov 2020.<br>
 The first edition was published by BlockchainHub Berlin https://blockchainhub.net in June 2019 under the title “Token Economy: How Blockchain & Smart contracts revolutionize the Economy” and had two amended editions.
 
-# Editions
 * Read for free on Github: https://github.com/sherminvo/TokenEconomyBook/wiki<br>
 * Print book (paperback & hardcopy) and eBook editions are also available on Amazon (https://amzn.to/2W7lQ8h) & other online bookstores.
 * Other languages: https://github.com/Token-Economy-Book/
