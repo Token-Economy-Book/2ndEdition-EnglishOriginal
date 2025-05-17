@@ -1,7 +1,7 @@
 ⚠️ **Outdated — This is a translation of the 2nd Edition of Token Economy (2020).**
 
 👉 **Current 3rd Edition (2025):**  
-• GitHub landing repo → <https://github.com/Token-Economy-Book/token-economy-current>  
+• GitHub landing repo → <https://github.com/Token-Economy-Book/3rdEdition-English>  
 • Open-access web version → <https://token.kitchen/token-economy/third-edition>
 
 # Token Economy: How the Web3 reinvents the Internet
